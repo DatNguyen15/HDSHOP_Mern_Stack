@@ -143,8 +143,8 @@ const FilterList = () => {
               type="range"
               id="points"
               min="0"
-              max="1000"
-              step="10"
+              max="10000"
+              step="50"
               onChange={(e) => rangeHandle(e)}
             />
           </div>
