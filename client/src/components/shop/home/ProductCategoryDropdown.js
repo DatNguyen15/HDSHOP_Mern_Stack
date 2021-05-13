@@ -50,7 +50,7 @@ const CategoryList = () => {
                           alignItems: "center",
                           justifyContent: "center",
                           width: "150px",
-                          height: "200px",
+                          height: "150px",
                         }}
                       >
                         <img
